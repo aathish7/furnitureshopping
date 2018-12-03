@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">Project</string>
+  <string name="action_settings">AndroidDropdown</string>
+
+  
+  <string-array name="admin">
+    <item>Select an option</item>
+    <item>Add Category</item>
+    <item>Delete Category</item>
+    <item>Add Products</item>
+    <item>Delete Products</item>
+    <item>View Users</item>
+    
+  </string-array>
+
+
+</resources>
